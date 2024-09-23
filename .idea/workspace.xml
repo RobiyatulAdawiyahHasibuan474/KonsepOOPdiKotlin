@@ -41,7 +41,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.InheritanceCKt">
+  <component name="RunManager" selected="Kotlin.InheritanceDKt">
     <configuration name="EnkapsulasiBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.EnkapsulasiBKt" />
       <module name="KonsepOOPdiKotlin" />
@@ -56,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.PersonAKt" />
+    <configuration name="InheritanceDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.InheritanceDKt" />
       <module name="KonsepOOPdiKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InheritanceDKt" />
         <item itemvalue="Kotlin.InheritanceCKt" />
         <item itemvalue="Kotlin.EnkapsulasiBKt" />
         <item itemvalue="Kotlin.PersonFKt" />
         <item itemvalue="Kotlin.PersonEKt" />
-        <item itemvalue="Kotlin.PersonAKt" />
       </list>
     </recent_temporary>
   </component>
