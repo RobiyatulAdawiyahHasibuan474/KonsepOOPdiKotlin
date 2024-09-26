@@ -42,7 +42,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.InterfaceCKt">
+  <component name="RunManager" selected="Kotlin.InterfaceDKt">
     <configuration name="AbstractClassAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.AbstractClassAKt" />
       <module name="KonsepOOPdiKotlin" />
@@ -71,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VisibilityAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.VisibilityAKt" />
+    <configuration name="InterfaceDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.InterfaceDKt" />
       <module name="KonsepOOPdiKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InterfaceDKt" />
         <item itemvalue="Kotlin.InterfaceCKt" />
         <item itemvalue="Kotlin.InterfaceAKt" />
         <item itemvalue="Kotlin.AbstractClassAKt" />
         <item itemvalue="Kotlin.AccessModifierAKt" />
-        <item itemvalue="Kotlin.VisibilityAKt" />
       </list>
     </recent_temporary>
   </component>
