@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76bdc12b-705c-42d1-8ff5-26102f52a307" name="Changes" comment="Add InheritanceB.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/InheritanceC.kt" afterDir="false" />
-    </list>
+    <list default="true" id="76bdc12b-705c-42d1-8ff5-26102f52a307" name="Changes" comment="Add InheritanceE.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -194,7 +192,28 @@
       <option name="project" value="LOCAL" />
       <updated>1727100280959</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add InheritanceC.kt">
+      <created>1727100474079</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1727100474079</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Add InheritanceD.kt">
+      <created>1727100714261</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1727100714261</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Add InheritanceE.kt">
+      <created>1727100778681</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1727100778681</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -211,6 +230,9 @@
     <MESSAGE value="Add EnkapsulasiB.kt" />
     <MESSAGE value="Add InheritanceA.kt" />
     <MESSAGE value="Add InheritanceB.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add InheritanceB.kt" />
+    <MESSAGE value="Add InheritanceC.kt" />
+    <MESSAGE value="Add InheritanceD.kt" />
+    <MESSAGE value="Add InheritanceE.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add InheritanceE.kt" />
   </component>
 </project>
