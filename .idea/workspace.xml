@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76bdc12b-705c-42d1-8ff5-26102f52a307" name="Changes" comment="Add PolymorphismB.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/VisibilityA.kt" afterDir="false" />
-    </list>
+    <list default="true" id="76bdc12b-705c-42d1-8ff5-26102f52a307" name="Changes" comment="Add AccessModifierA.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,16 +39,16 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.AccessModifierAKt">
-    <configuration name="AccessModifierAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.AccessModifierAKt" />
+  <component name="RunManager" selected="Kotlin.AbstractClassAKt">
+    <configuration name="AbstractClassAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.AbstractClassAKt" />
       <module name="KonsepOOPdiKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritanceHKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.InheritanceHKt" />
+    <configuration name="AccessModifierAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.AccessModifierAKt" />
       <module name="KonsepOOPdiKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.AbstractClassAKt" />
         <item itemvalue="Kotlin.AccessModifierAKt" />
         <item itemvalue="Kotlin.VisibilityAKt" />
         <item itemvalue="Kotlin.PolymorphismBKt" />
         <item itemvalue="Kotlin.PolymorphismAKt" />
-        <item itemvalue="Kotlin.InheritanceHKt" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +248,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727322296622</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Add VisibilityA.kt">
+      <created>1727322497825</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1727322497825</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Add AccessModifierA.kt">
+      <created>1727322740781</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1727322740781</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -275,6 +287,8 @@
     <MESSAGE value="Add InheritanceH.kt" />
     <MESSAGE value="Add PolymorphismA.kt" />
     <MESSAGE value="Add PolymorphismB.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add PolymorphismB.kt" />
+    <MESSAGE value="Add VisibilityA.kt" />
+    <MESSAGE value="Add AccessModifierA.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add AccessModifierA.kt" />
   </component>
 </project>
