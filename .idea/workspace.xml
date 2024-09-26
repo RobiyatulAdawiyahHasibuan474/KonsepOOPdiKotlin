@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76bdc12b-705c-42d1-8ff5-26102f52a307" name="Changes" comment="Add NestedInnerClass.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/NestedInnerClassA.kt" afterDir="false" />
+    <list default="true" id="76bdc12b-705c-42d1-8ff5-26102f52a307" name="Changes" comment="Add DataClassA.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/DataClassB.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -306,13 +306,31 @@
       <option name="project" value="LOCAL" />
       <updated>1727323794019</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Add NestedInnerClassA.kt">
+      <created>1727323933441</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1727323933441</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Add NestedInnerClassB.kt">
+      <created>1727324091490</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1727324091490</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Add DataClassA.kt">
+      <created>1727324193246</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1727324193246</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add PersonB.kt" />
-    <MESSAGE value="Add PersonC.kt" />
-    <MESSAGE value="Add PersonD.kt" />
     <MESSAGE value="Add PersonE.kt" />
     <MESSAGE value="Add PersonF.kt" />
     <MESSAGE value="Add EnkapsulasiA.kt" />
@@ -335,6 +353,9 @@
     <MESSAGE value="Add InterfaceC.kt" />
     <MESSAGE value="Add InterfaceD.kt" />
     <MESSAGE value="Add NestedInnerClass.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add NestedInnerClass.kt" />
+    <MESSAGE value="Add NestedInnerClassA.kt" />
+    <MESSAGE value="Add NestedInnerClassB.kt" />
+    <MESSAGE value="Add DataClassA.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add DataClassA.kt" />
   </component>
 </project>
