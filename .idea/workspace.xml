@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76bdc12b-705c-42d1-8ff5-26102f52a307" name="Changes" comment="Add DataClassD.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/DataClassE.kt" afterDir="false" />
-    </list>
+    <list default="true" id="76bdc12b-705c-42d1-8ff5-26102f52a307" name="Changes" comment="Add DataClassF.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -348,12 +346,24 @@
       <option name="project" value="LOCAL" />
       <updated>1727324519577</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Add DataClassE.kt">
+      <created>1727324608375</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1727324608375</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Add DataClassF.kt">
+      <created>1727324654398</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1727324654398</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add EnkapsulasiB.kt" />
-    <MESSAGE value="Add InheritanceA.kt" />
     <MESSAGE value="Add InheritanceB.kt" />
     <MESSAGE value="Add InheritanceC.kt" />
     <MESSAGE value="Add InheritanceD.kt" />
@@ -377,6 +387,8 @@
     <MESSAGE value="Add DataClassB.kt" />
     <MESSAGE value="Add DataClassC.kt" />
     <MESSAGE value="Add DataClassD.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add DataClassD.kt" />
+    <MESSAGE value="Add DataClassE.kt" />
+    <MESSAGE value="Add DataClassF.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add DataClassF.kt" />
   </component>
 </project>
